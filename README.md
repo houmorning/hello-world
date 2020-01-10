@@ -1,2 +1,4 @@
+# hello-world
+ try_1
 
-尝试使用turtle绘制hello world！
+ (｡・`ω´･)
